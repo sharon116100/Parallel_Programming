@@ -1,10 +1,6 @@
 # Programming Assignment I: SIMD Programming
 
 
-
-> Student: 吳奐萱 0853402
-
-
 ## :memo: Part1
 
 ### Q1-1: Does the vector utilization increase, decrease or stay the same as VECTOR_WIDTH changes? Why?
