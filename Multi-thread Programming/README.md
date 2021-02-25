@@ -1,5 +1,5 @@
 # Programming Assignment II: Multi-thread Programming
-> Student: 吳奐萱 0853402
+
 ## :memo: Part2
 
 ### Q1: In your write-up, produce a graph of speedup compared to the reference sequential implementation as a function of the number of threads used FOR VIEW 1.
